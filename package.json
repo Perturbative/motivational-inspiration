@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Perturbative/motivational-inspiration.git"
+  },
   "license": "ISC",
   "dependencies": {
     "body-parser": "~1.13.2",
